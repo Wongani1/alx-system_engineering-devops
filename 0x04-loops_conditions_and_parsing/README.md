@@ -1,1 +1,1 @@
-looop conditions and parsing
+loop condition and parsing in bash scripts
